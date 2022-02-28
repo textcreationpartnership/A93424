@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A free flowing of the father's love to the heirs of the kingdom, with all that are seeking the peace and righteousness of it</title>
+            <author>Smith, William, d. 1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93424</idno>
+            <idno type="STC">Wing S4303</idno>
+            <idno type="STC">ESTC R184393</idno>
+            <idno type="EEBO-CITATION">42475206</idno>
+            <idno type="OCLC">ocm 42475206</idno>
+            <idno type="VID">151360</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93424)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151360)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2256:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A free flowing of the father's love to the heirs of the kingdom, with all that are seeking the peace and righteousness of it</title>
+                  <author>Smith, William, d. 1673.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of sheet: "Your dear Brother in bonds, W.S. The beginning of the 7th month, 1664. This is to go amongst Friends, and to be read in their Meetings."</note>
+                  <note>Reproduction of original in: Friends' Library (London, England)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+               <term>Persecution --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:151360:1" rendition="simple:additions"/>
+            <head>A free Flowing of the Father's Love to the Heirs of the Kingdom, with all
+that are ſeeking the Peace and Righteouſneſs of it.</head>
+            <p>YE little Flock of the Heavenly Power, who are raiſed unto new<g ref="char:EOLhyphen"/>neſs
+of Life by the Reſurrection of Jeſus Chriſt the Righteous, in
+whom ye have obtained Grace and Mercy with God the Father,
+and have the full aſſurance of Life eternal ſealed unto you by his
+holy Spirit, whereby ye feel al things added for your conſolation &amp; rejoycing;
+ſo that outward Perſecution or Tribulation cannot ſeparate you from the
+Love of God which ye poſſeſs in Chriſt Jeſus the Lord, but in his Love you
+are ſo rooted and grounded, and ſtedfaſtly ſtayed and fixed, as that the Po<g ref="char:EOLhyphen"/>wers
+of darkneſs cannot move or ſhake you to pluck you up; ye are the
+glorious Off-ſpring of Almighty God, and the ſhadow of his Power is over
+your branches for your preſervation, in which lye ye down in ſtilneſs and
+quietneſs, for the Lord God worketh mightily for you.</p>
+            <p>
+               <hi>Dear Brethren,</hi> the deep ſence of that Endleſs Love which God the Fa<g ref="char:EOLhyphen"/>ther
+hath beſtowed upon us through Chriſt Jeſus, doth mightily abound in
+my heart towards you, and in all brotherly kindneſs I therein viſit you, as
+being a partaker of the Afflictions and Sufferings which any of you endure
+this day; for I do aſſuredly believe that God is with you, and that his Love
+doth freely abound in you over the Afflictions that do betide you, and in
+this Faith I am comforted, knowing that the Arm of the Lord is underneath
+you to ſupport and ſuccour you; the ſence of which conſtrains me to viſit
+you with theſe lines, that ye may be ſtrengthened unto all long-ſuffering
+and patience with joyfulneſs, holding forth the holy Teſtimony of Life in
+full aſſurance of Faith unto the end; for you are an unknown People in the
+hidden life of the immortal Seed, and therefore it is that you endure grief
+by aliens and ſtrangers, who are not of the ſame houſhold of Faith with
+you; and do not marvel why theſe things come to paſs, it being no more
+than what he endured before you, who is the Captain of your Salvation;
+for had they known him, they would not have crucified him; and you be<g ref="char:EOLunhyphen"/>ing
+born of his Life, you are as far out of the ſight and knowledge of every
+ſtranger, as he was, who by wicked hands was crucified: and this is not a
+new thing which happeneth unto you, but is the ſame that he endured, who
+is leading you in his own footſteps, that ye may obtain the Inheritance with
+him: and this day is not come upon you unawares, that you ſhould be ama<g ref="char:EOLhyphen"/>zed
+at the approach of it, or affrighted at the terror in it; for the Lord God
+hath been preparing you for it, and furniſhing you with ſtrength to ſtand
+with boldneſs in it, ſo that ye are as armed men well prepared for the bat<g ref="char:EOLhyphen"/>tel,
+being filled with might, by his Spirit in your inner man, and your backs
+are as ready for the Smiter as the Smiter is to ſmite you, and you ſhrink not
+their blows though they be many and furious, but ſtand with the Helmet of
+Salvation over your heads, and feel your ſafety in the Arm of your Keeper;
+for aſſuredly the mighty Lord God, who is the God of your Salvation, doth
+ariſe in his Power, and according to your Afflictions ſo doth he proportion
+his Strength for your Preſervation; and though the wicked be permitted to
+do ſomething of what is in their hearts, yet God will reſtrain them for ac<g ref="char:EOLhyphen"/>compliſhing
+their fury to the full, and they ſhall never be able to bring it
+to paſs though they have decreed it; for when ſo much of their wrath is
+gone forth as ſhall turn to the praiſe of God, then will he reſtrain the re<g ref="char:EOLhyphen"/>mainder,
+by pleading the Cauſe of his Choſen, and appearing in his Power
+for the Deliverance of <hi>Sion,</hi> and all his enemies ſhall ſtand amazed and
+confounded within themſelves, for the day of trembling ſhall come upon
+all fleſh, and then ſhall your Glory ſhine forth as the Sun in the Kingdom
+of the Father, and many ſhall take hold on your skirts, with a deſire to be
+called by your Name; and from that day ſhall <hi>Iſrael</hi> poſſeſs their own Land
+in peace, and quietly ſit under their own Vine and Fig-tree, and none ſhall
+make them afraid; then will the Lord comfort you for the years wherein
+you have been afflicted, and for the dayes wherein you have ſeeu adverſity:
+Therefore ye little Flock of the heavenly power, be not afraid nor terrified
+becauſe of your Adverſaries, for it is your Father's good pleaſure to give
+you the Kingdom; and though you endure many Tribulations, yet through
+the ſame you draw nearer the Inheritance; and you that endure Tribulati<g ref="char:EOLhyphen"/>ons
+in patience, you have a good part in the Joy of the Kingdom; and here<g ref="char:EOLhyphen"/>in
+is your Comfort in the midſt of Tribulation, feeling a poſſeſſion which
+the world cannot give, nor take away, in which ſtand ye ſtedfaſt without
+wavering, and never look back again to fading things, but ſtill preſs for<g ref="char:EOLhyphen"/>ward
+in the Drawings and Overcomings of the Heavenly Love, that the E<g ref="char:EOLhyphen"/>ternal
+Life may wrap you up in it ſelf, and mould you into the nature of its
+own being: for dear Lambs, I know the manifold temptations that may
+aſſault you in ſuch a day of tryal; and I alſo know the manifold Mercies of
+the Lord God to overcome them; and as ye cleave to the Lord, and reſign
+up all into his Will, the appearance of his Power will ſcatter Temptations
+and drive them away; but if you begin to liſten to the Enemy, and to enter
+into thoughts and reaſonings about the things of this life, then a Vail will
+come over you, and weakneſs will ſeize upon you, and your dayes and nights
+will be weariſom to you: therefore, my <hi>dear Friends,</hi> keep your Conſciences
+clear in the ſight of God, that as the ſtreams of his living water hath purged
+out that which once did defile you, even ſo to keep your ſelves unſpotted
+of the world; for you are to give up all in the freeneſs of your minds, and
+the Lord loveth a chearful giver; and where all is given up in chearful<g ref="char:EOLhyphen"/>neſs,
+his Love doth anſwer the Givers ſeven-fold into their boſoms: for you
+give him nothing but his own, and why ſhould any murmur when he re<g ref="char:EOLhyphen"/>quires
+it, or keep back any part when he calls for the whole? O give all up
+freely and chearfully, and his gifts will be enlarged unto you more abun<g ref="char:EOLhyphen"/>dantly,
+and you will feel his ſtrength to carry you in pure delightings to
+do his Will, and to follow him whitherſoever he goes. I know that many
+of you are in the true ſence of it, and have your Rejoycing in it; and
+though you endure a great fight of Afflictions, and go through Tryals and
+hard Tribulations, yet you cannot ſay much of them to glory in them, or
+any way ſeek to be eſteemed or ſet up by them, but you ſecretly rejoyce in
+God, whoſe Preſence you feel to be your ſtrength, and ſo return him the
+Glory in his own ſtrength, by which you are preſerved to do his Will: and
+I know there are many that cannot expreſs much in words, that are freely
+given up to ſerve the Lord, whoſe Offerings in their breathings are accep<g ref="char:EOLhyphen"/>table
+with him; and I alſo know, that many are truly ſeeking the Peace
+and Righteouſneſs of the Kingdom, that yet are ſore beſet with divers tem<g ref="char:EOLhyphen"/>ptations,
+and are not grown into that ſtrength as to be able to reſiſt them,
+but ſecretly cry unto the Lord that he would help them, and by his Power
+to ſever all from them that letteth or hindereth from following of him.</p>
+            <p>O ye <hi>dear Brethren,</hi> who ſtand in the ſtrength of the Eternal Power, be ye
+tender over the weak and crying Babe, and help it forward with an Arm of
+Love; for there can be no more expected than there is ſtrength to perform,
+but as there is a willingneſs begotten, and a true ſeeking after the Peace and
+Righteouſneſs of the Kingdom, the willing mind is accepted according to
+what it hath, and God will encreaſe ſtrength to the willingneſs, and in due
+time make it able to perform: therefore let the ſtrong bear with it as a <hi>Babe</hi>
+that is willing to the utmoſt of its ſtrength; and if through its weakneſs it
+ſhould at any time fall, be ready to help it up again; leave it not behind
+you becauſe it is weak, but take it on with you though it walk ſlowly; for
+it is an Heir of the Kingdom, though many things yet lye in its way and it
+want ſtrength to remove them and get over them; O condeſcend to it in
+bowels of tenderneſs; and if it ſlip, hold it up and heal it; and do not beat
+it, but take it by the hand and lead it, until it have received ſtrength to
+walk with you that are ſtrong; and ſo in the Eternal Unity and Fellowſhip
+of the Kingdom you will be all knit together as one man; and truly ſerve
+one another in every office of Love, which is good and well-pleaſing in the
+ſight of God.</p>
+            <p>So all <hi>dear Friends</hi> every where, whether bond or free, feel your <hi>Unity in
+the Spirit and Bond of Peace,</hi> and then you that yet have your outward liberty
+will help to bear the burdens of your Brethren that are in Afflictions; for
+all that are in the Life they are in a ſenſible feeling of the Sufferings of the
+Body, and it is unto them as their own in the <hi>Unity of the Spirit;</hi> for the
+Spirit gives the ſence of the Afflictions and Sufferings of Brethren, and alſo
+of their Joy and Conſolation; and here the true Love aboundeth one to<g ref="char:EOLhyphen"/>wards
+another, which the Waters cannot quench, nor the Floods drown:
+therefore as the Lord God hath choſen you to be a People to himſelf, ſo
+do you walk worthy of his kindneſs, and honour his Name and Truth in the
+bleſſed <hi>
+                  <g ref="char:V">Ʋ</g>nity of the Immortal Seed;</hi> for many eyes are upon you, and many
+that watch for evil and not for good, whoſe tongues are as ready to accuſe
+as their eyes are to watch; and there are alſo many that have a true love
+and favour in their hearts towards you, and a ſecret cry in them to be with
+you; and when the Cloud diſſolveth which at preſent lies over them, they
+will run: therefore walk circumſpectly in the Light, and preach to all in
+the Life, that you may be a ſweet ſavour unto Life in all, even as I know
+many of you are, in whom the Virtues of Life do ſweetly abound, which is
+a ſure Teſtimony for God in the hearts of all people; and ſo all feel the
+Springs of Life to your Refreſhment and Comfort; for the Lord hath great
+regard unto you, and his Promiſe doth aſſure a great Deliverance for you;
+for thus he hath ſpoken, <hi>Jacob ſhall not alwayes be in trouble, nor Sion in heavi<g ref="char:EOLhyphen"/>neſs;
+for I will glorifie my Name in Sion, and Jacob ſhall rejoyce:</hi> Therefore be
+of good comfort ye <hi>dear Children,</hi> and think not the time long, but <hi>let Pa<g ref="char:EOLhyphen"/>tience
+have its perfect work,</hi> and in the living Faith and Hope ſtand ye ſted<g ref="char:EOLhyphen"/>faſt,
+and anchor into the depths of God's Eternal Love, ſo will you be ſtayed
+upon him, and ſtrengthened by him, and no wearineſs will come upon you,
+but a freſh delighting in the Seed which over all muſt reign, and as Heirs
+of the Kingdom inherit your portion to the glory of the Father, where I
+dearly imbrace you, and in pure Love and perfect Peace ſalute you all.</p>
+            <closer>
+               <signed>Your dear Brother in bonds,
+<hi>W. S.</hi>
+               </signed>
+The beginning of <date>the 7th month, 1664.</date>
+This is to go amongſt Friends, and to be read in their Meetings.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
